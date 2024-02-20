@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Project Screenshot](./assets/images/Screenshot Emily Hennes Social links profile.png)
+![Project Screenshot](assets/images/social-links-preview-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/ehennes/frontend-mentor-social-links-profile)
+- Live Site URL: [](https://eh-social-links-profile.netlify.app/)
 
 ## My process
 

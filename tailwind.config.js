@@ -3,7 +3,11 @@ const defaultTheme = require('tailwindcss/defaultTheme');
 module.exports = {
   content: ["*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+        fontFamily: {
+            'sans': ['Inter', ...defaultTheme.fontFamily.sans],
+        }
+    },
     colors: {
         transparent: 'transparent',
         current: 'currentColor',
@@ -18,7 +22,7 @@ module.exports = {
     screens: {
       'xs': '475px',
       ...defaultTheme.screens,
-    },
+    }
   },
   plugins: [],
 }

@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/ehennes/frontend-mentor-social-links-profile)
-- Live Site URL: [](https://eh-social-links-profile.netlify.app/)
+- Solution URL: [Solution](https://github.com/ehennes/frontend-mentor-social-links-profile)
+- Live Site URL: [Live Site](https://eh-social-links-profile.netlify.app/)
 
 ## My process
 
